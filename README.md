@@ -49,6 +49,4 @@ The system supports **multi-turn conversations**, **context-aware responses**, a
 
 ### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/kirantushar10/Conversational-RAG-Assistant.git
-cd Conversational-RAG-Assistant
+
