@@ -42,8 +42,8 @@ Follow these steps to install, configure, and run the **Conversational RAG Assis
 Clone the repository from GitHub and navigate to the project directory.
 
 ```bash
-git clone https://github.com/kirantushar10/Conversational-RAG-Assistant.git
-cd Conversational-RAG-Assistant
+git clone https://github.com/Yuktanarendra/Retrieval-Augmented-Generation-conversational-Assitant.git
+cd Retrieval-Augmented-Generation-conversational-Assitant
 ```
 ### Step 2: Install Dependencies
 
