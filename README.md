@@ -1,4 +1,4 @@
-# 🧠 Conversational RAG Assistant
+# 🧠 Retrieval Augmented Generation Conversational Assitant
 
 An advanced **Retrieval-Augmented Generation (RAG)** chatbot built with **LangChain**, **Groq Llama 3**, **Chroma**, and **Hugging Face embeddings**.  
 It supports **multi-turn conversations**, **contextual memory**, and **LangSmith tracing** for real-time observability.
@@ -33,7 +33,7 @@ It supports **multi-turn conversations**, **contextual memory**, and **LangSmith
 
 ## ⚙️ Installation & Setup
 
-Follow these steps to install, configure, and run the **Conversational RAG Assistant** on your local machine.  
+Follow these steps to install, configure, and run the **Retrieval Augmented Generation Conversational Assitant** on your local machine.  
 
 ---
 
@@ -58,7 +58,7 @@ Create a .env file in the project root and add:
 
 ```bash
 LANGCHAIN_API_KEY = "Add your LangChain API key here"
-LANGCHAIN_PROJECT = "Conversational RAG Assistant"
+LANGCHAIN_PROJECT = "Retrieval Augmented Generation Conversational Assitant"
 HF_TOKEN = "Add your Hugging Face API key here"
 GROQ_API_KEY = "Add your Groq API key here"
 LANGCHAIN_TRACING_V2 = "true"
@@ -84,7 +84,7 @@ The chatbot will scrape that site, create embeddings, and build a vector databas
 
 2. Log in with your LangSmith account linked to your LANGCHAIN_API_KEY
 
-3. Select your project Conversational RAG Assistant
+3. Select your project Retrieval Augmented Generation Conversational Assitant
 
 4. Inspect traces, prompts, retrieved documents, and model responses in detail.
 
